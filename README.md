@@ -5,7 +5,7 @@ Combo To cPanel/WHM Cracker is a Windows tool (.exe) that tests email:password c
 
 **Download Link:**
 
-https://drive.google.com/file/d/1_8KJDa3AY3ZZ8BZKqwy99MJ2HVTcNb4j/view?usp=drive_link
+https://drive.google.com/file/d/1_8KJDa3AY3ZZ8BZKqwy99MJ2HVTcNb4j/view
 https://mega.nz/file/o551RbZa#KlOmWmhyUMLNjQNS8J5tBDU-VoVUAdtJoEi2vISYTTk
 
 ## Features
