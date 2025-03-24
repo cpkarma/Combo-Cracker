@@ -65,3 +65,5 @@ https://mega.nz/file/o551RbZa#KlOmWmhyUMLNjQNS8J5tBDU-VoVUAdtJoEi2vISYTTk
 ## Tips
 - Check your `.txt` file format.
 - **Use only on systems you're allowed to test.**
+
+![Alt text](https://raw.githubusercontent.com/cpkarma/img/main/combo.jpg)
